@@ -1,0 +1,55 @@
+{
+  "success": true,
+  "data": {
+    "topicList": [
+      {
+        "id": 1,
+        "title": "社会热点",
+        "imgUrl": "https://img.mukewang.com/szimg/5db92a1a080f03a301400140.jpg"
+      },
+      {
+        "id": 2,
+        "title": "手绘",
+        "imgUrl": "https://img.mukewang.com/szimg/5da9265d0845b4bc01400140.jpg"
+      }
+    ],
+    "articleList": [
+      {
+        "id": 1,
+        "title": "测试1",
+        "desc": "这是测试文章1",
+        "imgUrl": "https://img.zcool.cn/community/01ee825f7eb19711013e4584ffcde4.jpg@1280w_1l_2o_100sh.jpg"
+      },
+      {
+        "id": 2,
+        "title": "测试2",
+        "desc": "这是测试文章2",
+        "imgUrl": "https://img.zcool.cn/community/01ee825f7eb19711013e4584ffcde4.jpg@1280w_1l_2o_100sh.jpg"
+      },
+      {
+        "id": 3,
+        "title": "测试3",
+        "desc": "这是测试文章3",
+        "imgUrl": "https://img.zcool.cn/community/01ee825f7eb19711013e4584ffcde4.jpg@1280w_1l_2o_100sh.jpg"
+      }
+    ],
+    "recommendList": [
+      {
+        "id": 1,
+        "imgUrl": "https://img.zcool.cn/community/014e395b9b1ab9a8012099c820e974.jpg@1280w_1l_2o_100sh.jpg"
+      },
+      {
+        "id": 2,
+        "imgUrl": "https://img.zcool.cn/community/01364e5b9b1ab8a8012099c844a216.jpg@1280w_1l_2o_100sh.jpg"
+      },
+      {
+        "id": 3,
+        "imgUrl": "https://img.zcool.cn/community/019cfe5b9b1ab7a8012099c8ab53b9.jpg@1280w_1l_2o_100sh.jpg"
+      },
+      {
+        "id": 4,
+        "imgUrl": "https://img.zcool.cn/community/01c7bd5b9b1a8da8012099c824ed47.jpg@1280w_1l_2o_100sh.jpg"
+      }
+    ]
+  }
+}
